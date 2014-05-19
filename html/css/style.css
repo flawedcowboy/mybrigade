@@ -1,0 +1,10 @@
+/* style.scss */
+/* _reset.scss */
+body {
+  background: #555; }
+
+body {
+  background: #000; }
+
+div {
+  display: block; }
